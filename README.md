@@ -8,7 +8,7 @@ There has been a burgeoning interest in the field of cyclic peptide therapeutics
 
 
 
-![image](model framework.png)
+![image](model.png)
 
 # Requirements:
 * torch 2.1.0
